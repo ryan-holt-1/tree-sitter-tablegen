@@ -112,7 +112,7 @@
 
 (string) @string
 
-(code) @string.special
+(code) @string
 
 (integer) @number
 
